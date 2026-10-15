@@ -1,5 +1,3 @@
-# Navegantes — apresentação do website
+# Navegantes — proposta v0.3
 
-Proposta v0.2 para apreciação. HTML/CSS/JS estático, sem WordPress, credenciais, bases de dados ou licenças. Agenda com eventos fictícios e filtros locais. Horários e conteúdos editoriais sujeitos a confirmação. Morada confirmada por Patrícia.
-
-Publicação GitHub Pages: branch main, pasta / (root). Os pedidos noindex são orientações aos motores de pesquisa, não controlo de acesso.
+Apresentação estática para apreciação. Calendário Pastoral 2026–2027 disponibilizado a partir do documento enviado pela paróquia; seleção de 14 entradas de outubro e novembro na agenda. Sem WordPress nem sincronização automática. Datas e horários sem dados inventados; confirmar eventuais alterações com a secretaria. Restantes horários e conteúdos sujeitos a validação.
